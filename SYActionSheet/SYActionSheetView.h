@@ -52,12 +52,6 @@ sizeWithFont:font constrainedToSize:maxSize lineBreakMode:mode] : CGSizeZero;
 //按钮点击事件回调
 @property (nonatomic, copy) void (^syActionSheetActionBlock) (UIButton *);
 
-/*
- .显示在哪个视图上
- 
- 作者：孙贝贝 2013.11.11
- */
-
 /**
  *  初始化SYActionSheet
  *
