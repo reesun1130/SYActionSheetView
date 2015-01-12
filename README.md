@@ -18,3 +18,7 @@ SYActionSheetView实现了类似于UIActionSheet的效果，简单易用，完�
         }
      };
      [actv showSYActionSheet];
+
+# 效果如下：
+
+ ![image](https://github.com/reesun1130/SYActionSheetView/raw/master/SYActionSheetView/syactionsheet.png)
